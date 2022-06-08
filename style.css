@@ -1,0 +1,32 @@
+body{
+   background-color:aqua; 
+}
+h1{
+    font-family:sans-serif;
+    background-color:whitesmoke;
+    color:darksalmon;
+}
+    #show_sketch{
+        float:right;
+    }
+#score{
+    font-size: 20px;
+    font-family:sans-serif;
+    margin-left:5px;
+}
+#timer{
+    float:right;
+    font-size: 20px;
+    font-family: sans-serif;
+    margin-right:5px;
+}
+p{
+    font-size:25px;
+    font-family:sans-serif;
+    color:darksalmon;  
+}
+
+#sketch_to_be_drawn{
+    color:bisque;
+}
+ 
